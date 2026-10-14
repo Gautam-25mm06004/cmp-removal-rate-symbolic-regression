@@ -1,0 +1,10 @@
+ipython
+matplotlib
+numpy
+pandas
+pysr
+requests
+scikit-learn
+scipy
+seaborn
+sympy
